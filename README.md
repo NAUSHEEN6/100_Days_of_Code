@@ -2,8 +2,9 @@
 
 What I am going to learn in these 100 days?
 
--> Machine learning
--> web development (Frontend)
--> DSA
+-> Machine learning \n
+-> web development (Frontend) \n
+-> DSA(java)
 
 
+DAY-1 :
